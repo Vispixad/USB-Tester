@@ -9,7 +9,8 @@
 1. Для начала скачайте IDE с официального [**сайта**](https://www.arduino.cc/en/software).
 2. Далее выбираем **Файл** -> **Настройки** и в поле **Доп. ссылки для Менеджера плат** вводим ссылку ниже:
 ```
-https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json```
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+```
 
 3. Теперь можно установить в менеджере плат платы **ESP32**, вводим название и ждём окончания установки.
 4. Подключаем наше устройство и выбираем в .. **esp32** -> ESP32S3.., после смотрим номер появившиеся COM порта (отличительный от COM1) и его выбираем.

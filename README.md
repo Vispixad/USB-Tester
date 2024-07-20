@@ -4,7 +4,7 @@
 ![programming](https://img.shields.io/badge/programming-blue?style=flat&logo=cplusplus)
 ![ESP32](https://img.shields.io/badge/ESP32-gray?style=flat&logo=espressif)
 
-![IMG_20240528_201432](https://github.com/Vispixad/ESP32-USB-Tester/assets/161984981/5fde4f38-2ab2-40d2-ab2c-9211365a272d)
+![image](https://github.com/user-attachments/assets/3a22bb03-c97c-448b-9720-d9ff2ecfc250)
 
 > [!CAUTION]
 > Если у вас возникают ошибки или другие трудности, советуем следить за

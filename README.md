@@ -171,4 +171,18 @@ USB Tester может быть компактным прибором с дисп
 <h1 align="center">Toolbox</h1>
 
 ![IMG_20240724_201549](https://github.com/user-attachments/assets/212413ca-0d15-45fb-aff1-22327293d85e)
+![IMG_20240724_201622](https://github.com/user-attachments/assets/8349d92b-09d4-4247-80ca-ed28457b7d8e)
+![IMG_20240724_202222](https://github.com/user-attachments/assets/b1b53f63-55dc-45fc-afba-f7d932e5587f)
 
+В этой подкатегории есть много различных функций такие как измерение сопротивления кабеля, генератор сигналов, осциллограф и другие. Некоторые на этапе разработки.
+
+## Countdown
+![IMG_20240724_202354](https://github.com/user-attachments/assets/28eb56d3-275b-4de7-b76b-88070d762a59)
+
+<h1 align="center">Setting</h1>
+
+## General
+![IMG_20240724_202545](https://github.com/user-attachments/assets/795ca7a6-c50e-405e-abcb-c83dea30c26e)
+
+## System
+![IMG_20240724_202717](https://github.com/user-attachments/assets/e0519007-06be-4778-8afc-506ddb7548f1)

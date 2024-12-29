@@ -4,8 +4,6 @@
 ![programming](https://img.shields.io/badge/programming-blue?style=flat&logo=cplusplus)
 ![ESP32](https://img.shields.io/badge/ESP32-gray?style=flat&logo=espressif)
 
-![image](https://github.com/user-attachments/assets/61d4b5e8-7ff0-4400-82a0-2f26ed011cd6)
-
 > [!CAUTION]
 > Если у вас возникают ошибки или другие трудности, советуем следить за
 > обновлениями, а также писать об этом нам, так как проект находится в активной разработке.
